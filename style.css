@@ -1,4 +1,35 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');    
+ 
+    body {
+    font-family: verdana;
+    margin-left: 30px;
+    margin-right: 30px;
+    }
+
+    hr {
+    size: 4px;
+    }
+
+    p.portions {
+    size: 20px;
+    font-weight: bold;
+    }
+
+
+body {
+    font-family: verdana;
+    margin-left: 30px;
+    margin-right: 30px;
+    }
+
+    hr {
+    size: 4px;
+    }
+
+    p.portions {
+    size: 20px;
+    font-weight: bold;
+    }
 
 html * {
     font-family: 'Roboto', sans-serif !important;
@@ -40,8 +71,6 @@ hr {
     height: 1.5px
 }
 
-ul {
-}
 
 li {
     line-height: 2em !important;
