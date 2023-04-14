@@ -1,38 +1,138 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+body{
+  background-color: white;
   }
+
+.Action {
+  text-align: center;   
+  width: 300px;  
+  height: 325px;  
+  padding-top: 15px; 
+  margin-left: 21px;
+  margin-right: 15px;
+  margin-top: 15px;
+  font-size: 3em;
+  font-family: Times, serif;
+  background-image: url(image1.jpg);
+  background-size: cover;
+  border-radius: 150px;
+  border-color: white;
+  color: white
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.Animation {
+  text-align: center;    
+  width: 300px;  
+  height: 325px;  
+  padding-top: 15px; 
+  margin-left: 21px;
+  margin-right: 15px;
+  margin-top: 15px;
+  font-size: 3em;
+  font-family: Times, serif;
+  background-image: url(image2.jpg);
+  background-size: cover;
+  border-radius: 150px;
+  border-color: white;
+  color: white
 }
 
-.App-link {
-  color: #61dafb;
+.Biography {
+  text-align: center;  
+  width: 300px;  
+  height: 325px;  
+  padding-top: 15px; 
+  margin-left: 21px;
+  margin-right: 15px;
+  margin-top: 15px;
+  font-size: 3em;
+  font-family: Times, serif;  
+  background-image: url(image3.jpeg);
+  background-size: cover;
+  border-radius: 150px;
+  color: white
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Comedy {
+  text-align: center;  
+  width: 300px;  
+  height: 325px;  
+  padding-top: 15px; 
+  margin-left: 21px;
+  margin-right: 15px;
+  margin-top: 15px;
+  font-size: 3em;
+  font-family: Times, serif;
+  background-image: url(image4.jpg);
+  background-size: cover;
+  border-radius: 150px;
+  color: white
+  
 }
+
+.Crime {
+  text-align: center;  
+  width: 300px;  
+  height: 325px;  
+  padding-top: 15px; 
+  margin-left: 21px;
+  margin-right: 15px;
+  margin-top: 15px;
+  font-size: 3em;
+  font-family: Times, serif;
+  background-image: url(image5.jpg);
+  background-size: cover;
+  border-radius: 150px;
+  color: white
+}
+
+.SuperHeros {
+  text-align: center;  
+  width: 300px;  
+  height: 325px;  
+  padding-top: 15px;
+  margin-left: 21px;
+  margin-right: 15px;
+  margin-top: 15px; 
+  font-size: 3em;
+  font-family: Times, serif;
+  background-image: url(image6.jpg);
+  background-size: cover;
+  border-radius: 150px;
+  color: white
+}
+
+.Drama{
+  text-align: center;  
+  width: 300px;  
+  height: 325px;  
+  padding-top: 15px;
+  margin-left: 21px;
+  margin-right: 15px;
+  margin-top: 15px; 
+  font-size: 3em;
+  font-family: Times, serif;
+  background-image: url(image7.jpg);
+  background-size: cover;
+  border-radius: 150px;
+  color: white
+}
+
+.Music {
+  text-align: center;  
+  width: 300px;  
+  height: 325px;  
+  padding-top: 15px;
+  margin-left: 21px;
+  margin-right: 15px;
+  margin-top: 15p; 
+  font-size: 3em;
+  font-family: Times, serif;
+  background-image: url(image8.jpeg);
+  background-size: cover;
+  border-radius: 150px;
+  color: white
+}
+
+
+
+ 
